@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Residual Schwarzschild advance after impulsive stellar mass loss
+message: If you use this code, please cite the companion note and this repository.
+type: software
+authors:
+  - family-names: Chunduri
+    given-names: Sai Srujan
+repository-code: https://github.com/srujan007/periapsis-advance-after-mass-loss
+license: MIT
+date-released: "2026-08-27"
+abstract: >
+  Python library and Monte Carlo for the first-order Schwarzschild
+  periapsis advance of a test planet after impulsive stellar mass loss,
+  including isotropic natal kicks.
